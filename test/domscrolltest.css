@@ -1,0 +1,24 @@
+/* Filename: domscrolltest.css
+ * Timestamp: 2014.04.18-11:52:27 (last modified)  
+ * Author(s): Bumblehead (www.bumblehead.com)  
+ */
+
+.bttn {
+    display:inline-block;
+    background-color:blue;
+    color:#fff;
+    border:1px solid red;
+}
+
+.bttn:hover {
+    background-color:red;    
+}
+
+.bttn-label {
+    display:inline-block;
+    margin:20px 10px;
+}
+
+html {
+    height: 150%;
+}
